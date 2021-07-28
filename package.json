@@ -1,0 +1,10 @@
+{
+    "name": "mystery",
+    "version": "1.0.0",
+    "description": "Bot da rede Mystery",
+    "main": "index.js",
+    "dependencies": {
+        "discord.js": "^11.5.1",
+        "quick.db": "^7.0.0"        
+    }
+}
